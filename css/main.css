@@ -21,33 +21,36 @@ body {
   width: 100%;
   display: block;
   margin: 0;
-  padding: 0;
 }
 
 p {
-  font-family: Open Sans;
+  font-family: "Open Sans";
 }
 
 h1 {
-  font-family: 'Rammetto One', cursive;
+  font-family: "Rammetto One", cursive;
 }
 
 h2 {
-  font-family: 'Gravitas One', cursive;
+  font-family: "Gravitas One", cursive;
 }
 
 h3 {
-  font-family: 'Comfortaa', cursive;
+  font-family: Comfortaa, cursive;
 }
 
 .melon {
   background-color: #e97065;
+  margin-top: .8em;
+  margin-bottom: .8em;
 }
 
 .fruit {
   background-color: #fbd25e;
+  margin-bottom: .8em;
 }
 
 .persimmon {
   background-color: #e86033;
+  margin-bottom: .8em;
 }
