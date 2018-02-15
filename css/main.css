@@ -16,3 +16,38 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  width: 100%;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-family: Open Sans;
+}
+
+h1 {
+  font-family: 'Rammetto One', cursive;
+}
+
+h2 {
+  font-family: 'Gravitas One', cursive;
+}
+
+h3 {
+  font-family: 'Comfortaa', cursive;
+}
+
+.melon {
+  background-color: #e97065;
+}
+
+.fruit {
+  background-color: #fbd25e;
+}
+
+.persimmon {
+  background-color: #e86033;
+}
